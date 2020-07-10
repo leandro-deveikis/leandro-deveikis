@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-Leandro Deveikis
-From Buenos Aires, Argentina
+I´m Leandro Deveikis
+from Buenos Aires, Argentina
